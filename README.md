@@ -1,7 +1,7 @@
 # YTM_Calc
 This simple project calculates the yield-to-maturity of a bond based on provided inputs. The project requires no dependencies and solves a bond's YTM using a binary search algorithm.
 
-How it works:
+**How it works:**
 Users start by inputting simple variables such as:
 - bond's current price
 - par value
